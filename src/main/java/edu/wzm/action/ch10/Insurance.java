@@ -1,7 +1,7 @@
 package edu.wzm.action.ch10;
 
 /**
- * Created by didi on 2017/7/31.
+ * Created by gatsbynewton on 2017/7/31.
  */
 public class Insurance {
 

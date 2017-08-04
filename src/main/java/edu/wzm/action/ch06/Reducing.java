@@ -12,7 +12,13 @@ import static edu.wzm.action.ch04.Dish.menu;
 public class Reducing {
 
     public static void main(String[] args) {
-        System.out.println("Total calories in menu: " + calculateTotalCalories());
+        System.out.println(calculateTotalCalories());
+
+        System.out.println(calculateTotalCaloriesWithMethodReference());
+
+        System.out.println(calculateTotalCaloriesWithoutCollectors());
+
+        System.out.println(calculateTotalCaloriesUsingSum());
     }
 
     /**

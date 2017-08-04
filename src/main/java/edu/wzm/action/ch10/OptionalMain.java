@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * Created by didi on 2017/7/31.
+ * Created by gatsbynewton on 2017/7/31.
  */
 public class OptionalMain {
 
